@@ -53,3 +53,56 @@ Conditional rendering means showing different UI depending on a condition. I use
 ### 7. How do you pass data from a parent component to a child component, and how does a child send something back to the parent?
 
 A parent passes data to a child using props. A child can send information back by calling a function that was passed from the parent as a prop.
+
+
+---
+
+## 📦 Dependencies
+
+This project uses the following main dependencies:
+
+- React
+- React DOM
+- React Toastify
+- Tailwind CSS
+- Vite
+
+---
+
+## ⚙️ Run Locally
+
+Follow these steps to run the project on your local machine:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/azmirx/assignment-5.git
+
+```
+
+2. Go to the project directory:
+
+```bash
+cd assignment-5
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Start the development server:
+
+```bash
+npm run dev
+```
+
+5. Open the local URL shown in your terminal.
+
+---
+
+## 🔗 Links
+
+- **Live Site:** https://assignment-5-azmir1.vercel.app
+- **GitHub Repository:** https://github.com/azmirx/assignment-5
