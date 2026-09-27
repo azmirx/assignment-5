@@ -1,4 +1,5 @@
 # Dev Stack Builder
+<img width="1904" height="909" alt="Screenshot_28" src="https://github.com/user-attachments/assets/ce9f2dbe-5397-4f86-8831-f05aedd838eb" />
 
 Dev Stack Builder is a responsive React application that helps developers explore different technologies and build their preferred development stack. Users can browse technologies, add them to their stack, remove individual items, or clear the entire stack.
 
